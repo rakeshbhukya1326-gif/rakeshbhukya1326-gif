@@ -135,7 +135,7 @@ A frontend expense-tracking application built in TypeScript to practice frontend
 <div align="center">
 
 <img src="https://img.shields.io/badge/Coursera-Data%20Analytics-312e81?style=for-the-badge&logo=coursera&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-Certification-312e81?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-Data%20Analytics-312e81?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 </div>
 
